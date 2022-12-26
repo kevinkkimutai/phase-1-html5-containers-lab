@@ -1,0 +1,13 @@
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/json-2.5.1/ext/json
+/home/kevin/.rbenv/versions/2.7.0/bin/ruby -I /home/kevin/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20221226-50737-1f2bfio.rb extconf.rb
+creating Makefile
+
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/json-2.5.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/json-2.5.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/json-2.5.1/ext/json
+make "DESTDIR=" install

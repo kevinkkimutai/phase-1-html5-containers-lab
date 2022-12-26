@@ -1,0 +1,16 @@
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+/home/kevin/.rbenv/versions/2.7.0/bin/ruby -I /home/kevin/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20221226-50737-r8z9h3.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/kevin/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20221226-50737-1mvmqqe/racc
